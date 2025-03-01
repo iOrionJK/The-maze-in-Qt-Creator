@@ -1,4 +1,4 @@
-# The-maze-in-Qt-Creator
+# The maze in Qt Creator
 The project is a small game the purpose of which is to solve the maze. To create a maze you can choose one of five generation algorithms:
 - The Prim's algorithm;
 - Kraskal's algorithm;
